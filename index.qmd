@@ -1,8 +1,8 @@
 ---
-title: "Analysing Push-Pull Factors for Public Bus Demand in Singapore"
+title: "Analysing Push-Pull Factors of Public Bus Origins and Destinations in Singapore"
 author:
-  - name: Khant Min Naing
-  - name: Victoria Grace
   - name: Fathima Kabeer
+  - name: Victoria Grace
+  - name: Khant Min Naing
 date: 02-22-2024 
 ---
